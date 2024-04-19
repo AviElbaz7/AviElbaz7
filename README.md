@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avi Elbaz 2nd year Dara Engineering student ---------------------------------  * 🌍  I'm based in Israel * ✉️  You can contact me at [avielbbaz@gmail.com](mailto:avielbbaz@gmail.com) * 🧠  I'm learning Data Engineering * 🤝  I'm open to collaborating on Interesting projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avi Elbaz
+2nd year Dara Engineering student ---------------------------------  * 🌍  I'm based in Israel * ✉️  You can contact me at [avielbbaz@gmail.com](mailto:avielbbaz@gmail.com) * 🧠  I'm learning Data Engineering * 🤝  
+I'm open to collaborating on Interesting projects
 
 ### Skills  
 
