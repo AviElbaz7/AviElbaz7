@@ -15,7 +15,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
@@ -30,6 +29,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-00599C?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### Big Data
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=black&style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
+
 ### SQL
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -42,20 +45,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Tools and Frameworks
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### Tools and Platforms
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222222?logo=github&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)]([https://github.com/yourusername](https://github.com/AviElbaz7))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/avielbbaz))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AviElbaz7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/avielbbaz)
+
 
