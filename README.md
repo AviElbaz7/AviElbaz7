@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Avi Elbaz
 
-🎓 **3rd-Year Data Engineering Student**  
+🎓 **3rd-Year Data Engineering Student at Ben-Gurion University**
 🌍 Based in **Israel**  
 
 ---
