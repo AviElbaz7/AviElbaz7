@@ -54,7 +54,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222222?logo=github&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=for-the-badge)
 
 ---
 
