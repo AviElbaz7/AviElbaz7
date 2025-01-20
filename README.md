@@ -1,13 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Avi Elbaz
-=================================================================================================================================
+# Hi there! 👋 I'm Avi Elbaz
 
-3rd year Data Engineering student
----------------------------------
+🎓 **3rd-Year Data Engineering Student**  
+🌍 Based in **Israel**  
 
-*   🌍  I'm based in Israel
-*   ✉️  You can contact me at [avielbbaz@gmail.com](mailto:avielbbaz@gmail.com)
-*   🧠  I'm learning Data Engineering
-*   🤝 I'm open to collaborating on  interesting projects
+---
+
+## About Me
+- 💡 Passionate about **Data Engineering** and solving real-world data challenges.
+- 📚 Currently learning advanced tools and frameworks like **Apache Spark**, **Hadoop**, and **Machine Learning** techniques.
+- 🤝 Open to collaborating on exciting projects that make an impact.
+
+---
+
+## Get in Touch
+- 📫 Email: [avielbbaz@gmail.com](mailto:avielbbaz@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/avielbbaz](https://www.linkedin.com/in/avielbbaz)  
+- 💻 GitHub: [github.com/AviElbaz7](https://github.com/AviElbaz7)
 
 
 # 💻 Technologies & Tools:
@@ -54,11 +62,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222222?logo=github&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
----
-
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AviElbaz7)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/avielbbaz)
 
 
