@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🤝 I'm open to collaborating on  interesting projects
 
 
-# 💻 Tech Stack:
+# 💻 Technologies & Tools:
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
