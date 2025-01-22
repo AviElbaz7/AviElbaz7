@@ -49,7 +49,6 @@
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ### Tools and Frameworks
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
@@ -59,8 +58,9 @@
 ### Tools and Platforms
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222222?logo=github&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=google-colab&logoColor=black&style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Databricks](https://img.shields.io/badge/-Databricks-EF4223?logo=databricks&logoColor=white&style=for-the-badge)
 
